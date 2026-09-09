@@ -64,7 +64,7 @@ The control is the quality bar, not the trigger. An option is offered only when 
 
 It stays out of the way entirely for emergencies, emotional support, execution tasks, constrained creative deliverables, and decisions you have already made and committed to.
 
-`tests/trigger-prompts.md` has the positive and negative cases, and the failure modes worth watching for.
+`test/trigger-prompts.md` has the positive and negative cases, and the failure modes worth watching for.
 
 ## Supported environments
 
